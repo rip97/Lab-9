@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="txtTitle">Guess the number!</string>
+</resources>
